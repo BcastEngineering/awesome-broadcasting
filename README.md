@@ -34,7 +34,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 * [PiClock Advanced](https://github.com/ael/piclock_advanced) Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
 * [PiRSClock-Full](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
-
+* [Dynamic Pi Clock](https://github.com/BcastEngineering/Dynamic_pi_clock) - Simple Stusio Clock for the Raspberry Pi that uses SDL2 and Runs on Raspberry Pi OS minimal.
 ## Codecs
 
 * [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
